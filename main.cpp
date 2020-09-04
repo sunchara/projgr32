@@ -50,7 +50,7 @@ int WINAPI WinMain (HINSTANCE hThisInstance,
     //wst.Init(btl.GenStat(), btl.step-2, 0, btl.time,"relative speed jet roket 2","TIME");
 
     wnd.Init(&btl);
-    wnd.Create("�������� ��������");
+    wnd.Create("");
     //wst.Create("stst");
 
 
